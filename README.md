@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# freshmeals-web-reactjs-firebase-
-=======
+
 ## Freshmeals App - Organic Food eCommerce 🍇🍊🍋🥭🍍  
   
 

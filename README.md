@@ -1,3 +1,74 @@
+<<<<<<< HEAD
+# freshmeals-web-reactjs-firebase-
+=======
+## Freshmeals App - Organic Food eCommerce 🍇🍊🍋🥭🍍  
+  
+
+
+
+### General Information  
+- Freshmeals App is one of the best Organic Food-related Responsive HTML Template built with Tailwind framework.   
+  
+
+<br/>  
+
+
+## Techonologies
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+  <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+
+
+### Features  
+- Homepage 
+- Signup/Signin
+- Userprofile + Wishlist
+- Dropdown menu
+- Product slider
+- Quick view product 
+- Shop grid/list view 
+- Pagination
+-Collection Tab + filter tab
+- Blog sidebar 
+- Fully responsive 
+- Testimonial
+- Contact page 
+-Contact form 
+- 404 page 
+- Coming soon page 
+- Add to cart & check out 
+- Singe product  
+  
+
+<br/>  
+
+### Screen shots
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +139,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+>>>>>>> 8e39c45 (first config)
